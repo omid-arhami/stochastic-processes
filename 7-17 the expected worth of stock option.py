@@ -4,7 +4,7 @@ Created on Tue Jul 21 23:38:11 2020
 
 @author: omid Arhami
 
-Question 17, Chapter 7 of the Simulation book by Sheldon Ross, 2013
+Question 17, Chapter 7 of Simulation, Fifth Edition by Sheldon M. Ross(2013)
 DOI: https://doi.org/10.1016/C2011-0-04574-X
 
 Estimate, by a simulation study, the expected worth of owning an option

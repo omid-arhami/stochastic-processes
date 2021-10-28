@@ -9,6 +9,7 @@ Simulation, Fifth Edition by Sheldon M. Ross(2013)
 DOI: https://doi.org/10.1016/C2011-0-04574-X
 
 Simulating the Reliability Function + Variance reduction: k-of-n system
+Consider a system of n components, each of which is either functioning or failed.
 
 """
 import numpy as np

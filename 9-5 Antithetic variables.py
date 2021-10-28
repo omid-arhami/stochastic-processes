@@ -4,7 +4,7 @@ Created on Mon Jul 20 19:28:03 2020
 
 @author: omid Arhami
 
-Question 17, Chapter 7 of the Simulation book by Sheldon Ross, 2013
+Question 5, Chapter 9 of the Simulation book by Sheldon Ross, 2013
 DOI: https://doi.org/10.1016/C2011-0-04574-X
 
 Antithetic variables:

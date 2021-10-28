@@ -4,7 +4,7 @@ Created on Wed Jul  1 22:12:44 2020
 
 @author: omid Arhami
 
-Question 8, Chapter 5 of the Simulation book by Sheldon Ross, 2013
+Question 8, Chapter 5 of Simulation, Fifth Edition by Sheldon M. Ross(2013)
 DOI: https://doi.org/10.1016/C2011-0-04574-X
 
 give algorithms for generating random variables from the following distributions.
